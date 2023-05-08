@@ -20,7 +20,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "testFramework",
-            url: "https://github.com/thothai94/testFramework/releases/download/v1.0.0/testFramework.xcframework.zip",
-            checksum: "abbabd921a14406a62ae4c35506dd3fe9e029baad935593501ef3b186757c8cc")
+            url: "https://github.com/thothai94/testFramework/releases/download/v1.0.1/testFramework.xcframework.zip",
+            checksum: "8be5748ad728dd1b9e04d6420f26999141aeb20a2fcc83d3b0217c46ad08cded")
     ]
 )
